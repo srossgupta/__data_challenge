@@ -1,0 +1,30 @@
+Separations: Count By Agency
+                               x freq
+1 AF-DEPARTMENT OF THE AIR FORCE 6434
+2      AR-DEPARTMENT OF THE ARMY 8802
+3       DD-DEPARTMENT OF DEFENSE 4355
+4      NV-DEPARTMENT OF THE NAVY 4371
+
+Accessions: Count By Agency
+                               x freq
+1 AF-DEPARTMENT OF THE AIR FORCE 4292
+2      AR-DEPARTMENT OF THE ARMY 7263
+3       DD-DEPARTMENT OF DEFENSE 3921
+4      NV-DEPARTMENT OF THE NAVY 5252
+
+Accessions: Count By Agency and LOS level
+                                
+                                 1 - 2 years 10 - 14 years 15 - 19 years 20 - 24 years 25 - 29 years 3 - 4 years 30 - 34 years 35 or more
+  AF-DEPARTMENT OF THE AIR FORCE         179            96            46            25            19         170             9          8
+  AR-DEPARTMENT OF THE ARMY              277           131            47            44            43         264            29         12
+  DD-DEPARTMENT OF DEFENSE               183           138            73            25            55         265            39         10
+  NV-DEPARTMENT OF THE NAVY              180           134            51            41            34         188            17          8
+                                
+                                 5 - 9 years Less than 1 year
+  AF-DEPARTMENT OF THE AIR FORCE         252             3488
+  AR-DEPARTMENT OF THE ARMY              350             6066
+  DD-DEPARTMENT OF DEFENSE               388             2745
+  NV-DEPARTMENT OF THE NAVY              338             4261
+  
+# There is not data at the state level
+
